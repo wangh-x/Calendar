@@ -23,7 +23,7 @@ body {
   margin-bottom: 15px;
 }
 
-.month-switch span:not(.date) {
+.month-switch span:not(.time) {
   cursor: pointer;
 }
 
